@@ -1,0 +1,11 @@
+customer_id,store_id,first_name,last_name,email,address_id,activebool,create_date,last_update,active
+601,1,Rosa,Ubuntu,rosa.ubunto@linux.com,201,true,2026-04-13,2026-04-13 18:00:00,1
+602,1,Friedrich,Nietzsche,f.nietzsche@zarathustra.de,202,true,2026-04-13,2026-04-13 18:00:00,1
+603,2,Jean-Jacques,Rousseau,jj.rousseau@contrat.fr,203,true,2026-04-13,2026-04-13 18:00:00,1
+604,1,Francois-Marie,Voltaire,voltaire@candide.org,204,true,2026-04-13,2026-04-13 18:00:00,1
+605,2,Michel,Foucault,m.foucault@panopticon.edu,205,true,2026-04-13,2026-04-13 18:00:00,1
+606,1,Byung-Chul,Han,bc.han@infocracia.kr,206,true,2026-04-13,2026-04-13 18:00:00,1
+607,2,Immanuel,Kant,i.kant@reason.de,207,true,2026-04-13,2026-04-13 18:00:00,1
+608,1,Baruch,Spinoza,b.spinoza@ethica.nl,208,true,2026-04-13,2026-04-13 18:00:00,1
+609,2,Simone,de Beauvoir,s.beauvoir@second.fr,209,true,2026-04-13,2026-04-13 18:00:00,1
+610,2,Arthur,Schopenhauer,a.schopen@will.de,210,true,2026-04-13,2026-04-13 18:00:00,1
